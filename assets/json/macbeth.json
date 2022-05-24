@@ -1,0 +1,34 @@
+[
+    [
+        {
+            "speaker" : "duncan",
+            "dialog" : "Who comes here?",
+            "newSpeaker" : "true"
+        }
+    ],
+    [
+        {
+            "speaker" : "malcolm",
+            "dialog" : "The worthy thane of Ross.",
+            "newSpeaker" : "true"
+        }
+    ],
+    [
+        {
+            "speaker" : "lennox",
+            "dialog" : "What a haste looks through his eyes! So should he look.",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "lennox",
+            "dialog" : "That seems to speak things strange."
+        }
+    ],
+    [
+        {
+            "speaker" : "ross",
+            "dialog" : "God save the king!",
+            "newSpeaker" : "true"
+        }
+    ]
+]
